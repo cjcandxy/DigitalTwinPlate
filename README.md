@@ -1,2 +1,2 @@
 # DigitalTwinPlate
-Shape Sensing Enables Intelligent Manufacturing - Demo
+Sensing Enables Intelligent Manufacturing - Demo
