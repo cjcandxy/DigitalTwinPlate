@@ -51,6 +51,8 @@ centroids_1 = cell(1,numFrames);
 
 detectionHistory_1 = cell(1,numFrames);
 
+a = 1;
+
 
 
 
